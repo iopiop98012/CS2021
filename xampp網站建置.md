@@ -29,23 +29,10 @@
 # 第二支程式
 
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>helloworld</title>
-	<meta charset="utf-8">
-</head>
-<body>
-
-<h1>helloworld</h1>
+![2021-10-07-3](https://user-images.githubusercontent.com/90738468/136343529-eb47046d-374a-4780-9ed9-29f4a7811449.png)
 
 
-<h3>你好世界</h3>
+![2021-10-07-2](https://user-images.githubusercontent.com/90738468/136343558-b3e868b4-64c0-429b-b8df-60d3b915f628.png)
 
-
-</body>
-</html>
-![2021-10-07-2](https://user-images.githubusercontent.com/90738468/136342827-ee9defe5-7f11-40d6-80c4-c406b4efe86b.png)
 
 ---
