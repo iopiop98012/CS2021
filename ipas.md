@@ -7,15 +7,25 @@
 -NIST風險評估架構
 
 -MITRE ATT&CK
+
 -MITRE DEfend(2021)
+
 -MITRE ENgage(2021)
+
 -ZERO trust network
+
 #資安威脅
+
 -IOT security
+
 -控制智慧燈泡的橋接器裝置CVE-2020-6007
+
 -CVE
+
 -NATIONAL VULNERABILITY DATABASE
+
 -printer security
+
 -8萬臺印表機連接埠可從公開網路存取有被駭之虞，臺灣曝險印表機數量全球第三(2020)
 -IPP連接埠網際網路列印協定（Internet Printing Protocol，IPP）
 -TCP 631埠發送呼叫，結果一天內就偵測到79,174臺印表機，這些印表機都因未加裝防火牆，而直接可由IPv4網際網路上查詢到。
