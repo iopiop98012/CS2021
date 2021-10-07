@@ -4,22 +4,7 @@
 # 我的第一支程式
 
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>helloworld</title>
-</head>
-<body>
-
-<h1>helloworld</h1>
-
-
-<h3>你好世界</h3>
-
-
-</body>
-</html>
+![2021-10-07-4](https://user-images.githubusercontent.com/90738468/136343840-ab5973b0-1859-4736-93ce-f1f70b80a1cb.png)
 
 ---
 
