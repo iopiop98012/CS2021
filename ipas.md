@@ -1,5 +1,5 @@
 #管理_1_資訊安全管理概念
-資安威脅
+>資安威脅
 
 資通安全目標CIA
 
@@ -18,9 +18,9 @@ MITRE ENgage(2021)
 ZERO trust network
 
 ##資安威脅  
->IOT security  
->>控制智慧燈泡的橋接器裝置CVE-2020-6007  
->CVE  
+IOT security  
+控制智慧燈泡的橋接器裝置CVE-2020-6007  
+CVE  
 NATIONAL VULNERABILITY DATABASE  
 printer security  
 8萬臺印表機連接埠可從公開網路存取有被駭之虞，臺灣曝險印表機數量全球第三(2020)  
