@@ -118,7 +118,8 @@ Targeted Ransomware
 數位簽章 ==> 確保資訊正確性  
 雜湊函數(Hash) ==> 確保資訊正確性  
 雜湊函式（英語：Hash function）又稱雜湊演算法，是一種從任何一種資料中建立小的數字「指紋」的方法。  
-雜湊函式把訊息或資料壓縮成摘要(digest)，使得資料量變小，將資料的格式固定下來。該函式將資料打亂混合，重新建立一個叫做雜湊值（hash values，hash codes，hash sums，或hashes）的指紋(fingerprint 特徵)。  
+雜湊函式把訊息或資料壓縮成摘要(digest)，使得資料量變小，將資料的格式固定下來。該函式將資料打亂混合，
+重新建立一個叫做雜湊值（hash values，hash codes，hash sums，或hashes）的指紋(fingerprint 特徵)。  
 ### Google Colab 實作  
 !echo abc > test.txt  
 !echo Abc > test2.txt  
@@ -185,7 +186,7 @@ HTTP Load Balancing
 (B) 確保資訊系統能夠穩定的運作  
 (C) 降低企業的營運和人員成本  
 (D) 避免資料外洩事故的發生  
-https://zh.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1  
+ 
 資訊安全管理系統(Information Security Management System，簡稱：ISMS)，是一套有系統分析和管理資訊系統的方法  
 
 各組織對ISMS的導入使用規劃(Plan)、執行(Do)、檢查(Check)、行動(Action)四個步驟(簡稱：PDCA)循環進行。  
