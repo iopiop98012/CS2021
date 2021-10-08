@@ -46,8 +46,10 @@ Targeted Ransomware
 完整性(Integrity)  
 可用性(Availability)  
 
->鑑別性(Authenticity)  
-可靠度(Reliability)  
+- 鑑別性(Authenticity)
+可證明一主體或資源之識別就是其所聲明者的特性。鑑別性適用於如使用者、程序、系統與資訊等實體  
+- 可靠度(Reliability)  
+- - 1
 不可否認性(Non-repudiation)  
 可歸責性(Accountability)  
 邊界與分類(Boundary and classification)  
