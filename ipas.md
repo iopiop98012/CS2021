@@ -20,9 +20,9 @@
 ##資安威脅  
 >- IOT security  
 控制智慧燈泡的橋接器裝置CVE-2020-6007  
-- CVE  
+>- CVE  
 NATIONAL VULNERABILITY DATABASE  
-- printer security  
+>- printer security  
 8萬臺印表機連接埠可從公開網路存取有被駭之虞，臺灣曝險印表機數量全球第三(2020)  
 IPP連接埠網際網路列印協定（Internet Printing Protocol，IPP）  
 TCP 631埠發送呼叫，結果一天內就偵測到79,174臺印表機，這些印表機都因未加裝防火牆，而直接可由IPv4網際網路上查詢到。  
@@ -31,7 +31,7 @@ Exploiting Multifunction Printers During A Penetration Test Engagement
 微軟Windows列印多工緩衝處理器(Print Spooler)  
 CVE-2021-34527 == >遠端執行任意程式碼  
 微軟Windows列印多工緩衝處理器(Print Spooler)存在安全漏洞(CVE-2021-34527)，允許攻擊者遠端執行任意程式碼，請儘速確認並進行防護補強！  
-- DDOS  
+>- DDOS  
 DDOS 2021 ithome專刊  
 DDoS攻擊 ithome專刊  
 殭屍網路發動大規模DDoS攻擊，每秒發出逾1,700萬次HTTP請求2021-08-23  
