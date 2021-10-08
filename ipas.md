@@ -47,19 +47,29 @@ Targeted Ransomware
 可用性(Availability)  
 
 - 鑑別性(Authenticity)
-可證明一主體或資源之識別就是其所聲明者的特性。鑑別性適用於如使用者、程序、系統與資訊等實體  
+  -證明一主體或資源之識別就是其所聲明者的特性。鑑別性適用於如使用者、程序、系統與資訊等實體  
 - 可靠度(Reliability)  
-  - 1  
-不可否認性(Non-repudiation)  
-可歸責性(Accountability)  
-邊界與分類(Boundary and classification)  
-職務區隔(Segregation of duties, SOD)  
-縱深防禦(Layered defense, defense in depth)  
-單一脆弱點(Single point of failure, SPOF)  
-阿奇里斯腱(Achilles heel)  
-木桶理論(Bucker principle）  
-僅知原則(Need to know) 
-
+  - 始終如一預期之行為與結果的性質  
+- 不可否認性(Non-repudiation)  
+  - 對一已發生之行動或事件的證明，使該行動或事件往後不能被否認的能力  
+- 可歸責性(Accountability)
+  - 確保實體之行為可唯一追溯到該實體的性質   
+  [資訊安全特性](http://noc.twaren.net/~liangmc/nuk/nsm991/Lesson6.pdf) 
+- 邊界與分類(Boundary and classification) 
+  - 是一個超曲面，它將基礎向量空間劃分為兩個集合，每個集合一個集合。問題空間的區域，其中分類器的輸出標籤不明確。     
+- 職務區隔(Segregation of duties, SOD)  
+  - 針對工作職務和責任應予以清楚區隔，降低資訊受到未經授權的修改，以及資訊資產受到誤用或濫用的情況發生  
+- 縱深防禦(Layered defense, defense in depth)  
+  - 是以全面深入的防禦去延遲而不是阻止前進中的敵人，透過放棄空間來換取時間與給予敵人額外的傷亡。有別於以一個單一而強大的防禦戰線去防禦敵人，縱深防禦試圖用下列方式阻擊敵人  
+- 單一脆弱點(Single point of failure, SPOF)  
+  是系統的弱點，而此弱點是指在系統安全開發之各階段：需求、設計、施工與運轉，被利用會造成違反資通安全政策的結果  
+- 阿奇里斯腱(Achilles heel)
+  - 一個小問題或虛弱的人或系統，可以導致在失敗  
+- 木桶理論(Bucker principle）
+  - 木桶子裡能夠盛多少水，不是取決於最長的那一塊，而是最短的那一塊，因此系統最弱的地方就是整個系統能力的所在點。  
+ 例如如說在家裡有前後兩個門，還有左右兩邊窗戶，前門用十道鎖防護好，後門卻開著，你的家就一點安全也沒有  
+- 僅知原則(Need to know)  
+  - 僅給予每個同仁最小限度需要的資料以及權限，避免額外的安全問題。  
 ## 資訊安全目標_機密性、完整性與可用性  
 學習重點:  
 - 資通安全的主要目標:CIA triad:  
