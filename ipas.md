@@ -17,9 +17,9 @@ MITRE ENgage(2021)
 
 ZERO trust network
 
-##資安威脅
--IOT security
-控制智慧燈泡的橋接器裝置CVE-2020-6007
+##資安威脅  
+IOT security  
+控制智慧燈泡的橋接器裝置CVE-2020-6007  
 CVE
 NATIONAL VULNERABILITY DATABASE
 printer security
