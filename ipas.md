@@ -1,4 +1,4 @@
-#管理_1_資訊安全管理概念
+# 管理_1_資訊安全管理概念
 - 資安威脅
 
 - 資通安全目標CIA
@@ -17,7 +17,7 @@
 
 - ZERO trust network
 
-##資安威脅  
+## 資安威脅  
 >- IOT security  
 控制智慧燈泡的橋接器裝置CVE-2020-6007  
 >- CVE  
@@ -35,13 +35,13 @@ CVE-2021-34527 == >遠端執行任意程式碼
 DDOS 2021 ithome專刊  
 DDoS攻擊 ithome專刊  
 殭屍網路發動大規模DDoS攻擊，每秒發出逾1,700萬次HTTP請求2021-08-23  
-APT  
+>- APT  
 Ransomeware  
 Targeted Ransomware  
 勒索軟體任務小組（Ransomware Task Force）ithome 2020-12-23
 
-##資通安全目標CIA  
-###資訊安全重要基本觀念  
+## 資通安全目標CIA  
+### 資訊安全重要基本觀念  
 >機密性(Confidentiality)  
 完整性(Integrity)  
 可用性(Availability)  
@@ -58,8 +58,8 @@ Targeted Ransomware
 木桶理論(Bucker principle）  
 僅知原則(Need to know) 
 
-資訊安全目標_機密性、完整性與可用性  
-學習重點:  
+## 資訊安全目標_機密性、完整性與可用性  
+-- 學習重點:  
 資通安全的主要目標:CIA triad:  
 各種破壞CIA的情境  
 保護CIA的方法  
