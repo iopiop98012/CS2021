@@ -1,28 +1,28 @@
 #管理_1_資訊安全管理概念
 - 資安威脅
 
-= 資通安全目標CIA
+- 資通安全目標CIA
 
-資通安全風險
+- 資通安全風險
 
-NIST網路安全框架(CSF)
+- NIST網路安全框架(CSF)
 
-NIST風險評估架構
+- NIST風險評估架構
 
-MITRE ATT&CK
+- MITRE ATT&CK
 
-MITRE DEfend(2021)
+- MITRE DEfend(2021)
 
-MITRE ENgage(2021)
+- MITRE ENgage(2021)
 
-ZERO trust network
+- ZERO trust network
 
 ##資安威脅  
-IOT security  
+>- IOT security  
 控制智慧燈泡的橋接器裝置CVE-2020-6007  
-CVE  
+- CVE  
 NATIONAL VULNERABILITY DATABASE  
-printer security  
+- printer security  
 8萬臺印表機連接埠可從公開網路存取有被駭之虞，臺灣曝險印表機數量全球第三(2020)  
 IPP連接埠網際網路列印協定（Internet Printing Protocol，IPP）  
 TCP 631埠發送呼叫，結果一天內就偵測到79,174臺印表機，這些印表機都因未加裝防火牆，而直接可由IPv4網際網路上查詢到。  
@@ -31,21 +31,22 @@ Exploiting Multifunction Printers During A Penetration Test Engagement
 微軟Windows列印多工緩衝處理器(Print Spooler)  
 CVE-2021-34527 == >遠端執行任意程式碼  
 微軟Windows列印多工緩衝處理器(Print Spooler)存在安全漏洞(CVE-2021-34527)，允許攻擊者遠端執行任意程式碼，請儘速確認並進行防護補強！  
-DDOS  
+- DDOS  
 DDOS 2021 ithome專刊  
 DDoS攻擊 ithome專刊  
 殭屍網路發動大規模DDoS攻擊，每秒發出逾1,700萬次HTTP請求2021-08-23  
 APT  
 Ransomeware  
 Targeted Ransomware  
-勒索軟體任務小組（Ransomware Task Force）ithome 2020-12-23  
-資通安全目標CIA  
-資訊安全重要基本觀念  
-機密性(Confidentiality)  
+勒索軟體任務小組（Ransomware Task Force）ithome 2020-12-23
+
+##資通安全目標CIA  
+###資訊安全重要基本觀念  
+>機密性(Confidentiality)  
 完整性(Integrity)  
 可用性(Availability)  
 
-鑑別性(Authenticity)  
+>鑑別性(Authenticity)  
 可靠度(Reliability)  
 不可否認性(Non-repudiation)  
 可歸責性(Accountability)  
@@ -55,7 +56,8 @@ Targeted Ransomware
 單一脆弱點(Single point of failure, SPOF)  
 阿奇里斯腱(Achilles heel)  
 木桶理論(Bucker principle）  
-僅知原則(Need to know)  
+僅知原則(Need to know) 
+
 資訊安全目標_機密性、完整性與可用性  
 學習重點:  
 資通安全的主要目標:CIA triad:  
