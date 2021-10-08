@@ -18,11 +18,11 @@
 - ZERO trust network
 
 ## 資安威脅  
->- IOT security  
+- IOT security  
 控制智慧燈泡的橋接器裝置CVE-2020-6007  
->- CVE  
+- CVE  
 NATIONAL VULNERABILITY DATABASE  
->- printer security  
+- printer security  
 8萬臺印表機連接埠可從公開網路存取有被駭之虞，臺灣曝險印表機數量全球第三(2020)  
 IPP連接埠網際網路列印協定（Internet Printing Protocol，IPP）  
 TCP 631埠發送呼叫，結果一天內就偵測到79,174臺印表機，這些印表機都因未加裝防火牆，而直接可由IPv4網際網路上查詢到。  
@@ -31,11 +31,11 @@ Exploiting Multifunction Printers During A Penetration Test Engagement
 微軟Windows列印多工緩衝處理器(Print Spooler)  
 CVE-2021-34527 == >遠端執行任意程式碼  
 微軟Windows列印多工緩衝處理器(Print Spooler)存在安全漏洞(CVE-2021-34527)，允許攻擊者遠端執行任意程式碼，請儘速確認並進行防護補強！  
->- DDOS  
+- DDOS  
 DDOS 2021 ithome專刊  
 DDoS攻擊 ithome專刊  
 殭屍網路發動大規模DDoS攻擊，每秒發出逾1,700萬次HTTP請求2021-08-23  
->- APT  
+- APT  
 Ransomeware  
 Targeted Ransomware  
 勒索軟體任務小組（Ransomware Task Force）ithome 2020-12-23
@@ -59,20 +59,20 @@ Targeted Ransomware
 僅知原則(Need to know) 
 
 ## 資訊安全目標_機密性、完整性與可用性  
--- 學習重點:  
-資通安全的主要目標:CIA triad:  
+學習重點:  
+- 資通安全的主要目標:CIA triad:  
 各種破壞CIA的情境  
 保護CIA的方法  
-資通安全的主要目標:CIA triad:  
+- 資通安全的主要目標:CIA triad:  
 資通安全的主要目標，基本上就是保護資訊的「機密性(Confidentiality)」、「完整性(Integrity)」及「可用性(Availability)」(簡稱C.I.A.)  
 
-機密性(Confidentiality)  
+- 機密性(Confidentiality)  
 
 防止【非授權人員】<<存取>>資訊，確保資訊秘密性  
-完整性(Integrity)  
+- 完整性(Integrity)  
 
 防止【非授權人員】<<竄改>>資訊，確保資訊正確性  
-可用性(Availability)  
+- 可用性(Availability)  
 
 防止系統故障或人為惡意【阻斷服務DOS/DDOS】，確保{資訊與資訊處理}<<服務>>的可獲得性  
 法規遵循(Law compliance)  
@@ -104,14 +104,14 @@ Targeted Ransomware
 (3) 拒絕服務(Denial-of-Services)  (4) 駭客侵入銀行資料庫竄改存款金額  
 
 (A) (1)， (2)  (B) (3)， (4)   (C) (2)， (3)， (4) (D) (1)， (2)， (4)  
-C.I.A.的安全防禦技術與保護措施  
--機密性保護  
+## C.I.A.的安全防禦技術與保護措施  
+- 機密性保護  
 
 [機密性][(Confidentiality)]: 防止【非授權人員】<<存取>>資訊，確保資訊秘密性  
 
 資料加解密 ==> 確保資訊秘密性  
 存取控制(access comtrol) ==> 防止【非授權人員】<<存取>>資訊  
-完整性保護  
+- 完整性保護  
 
 完整性(Integrity): 防止【非授權人員】<<竄改>>資訊，確保資訊正確性  
 存取控制 ==> 防止【非授權人員】<<竄改>>資訊  
@@ -119,14 +119,14 @@ C.I.A.的安全防禦技術與保護措施
 雜湊函數(Hash) ==> 確保資訊正確性  
 雜湊函式（英語：Hash function）又稱雜湊演算法，是一種從任何一種資料中建立小的數字「指紋」的方法。  
 雜湊函式把訊息或資料壓縮成摘要(digest)，使得資料量變小，將資料的格式固定下來。該函式將資料打亂混合，重新建立一個叫做雜湊值（hash values，hash codes，hash sums，或hashes）的指紋(fingerprint 特徵)。  
-Google Colab 實作  
+### Google Colab 實作  
 !echo abc > test.txt  
 !echo Abc > test2.txt  
 !md5sum test.txt  ==> 0bee89b07a248e27c83fc3d5951213c1  test.txt  ==>32*4 bits =128 bits  
 !md5sum test2.txt ==> 879435373481c222ca1e3346b3b4c4b1  test2.txt  
 !sha1sum test.txt ==> 03cfd743661f07975fa2f1220c5194cbaff48451  test.txt ==>40*4 bits =160 bits  
 !sha1sum test2.txt ==> b686597546683b17bdd1179f339fa32e1b4368c9  test2.txt  
-可用性保護  
+- 可用性保護  
 
 可用性(Availability) :防止系統故障或人為惡意【阻斷服務DOS/DDOS】，確保{資訊與資訊處理}<<服務>>的可獲得性  
 如何達到可用性? 底下幾種方法一定要會  
