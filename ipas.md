@@ -1,22 +1,22 @@
-管理_1_資訊安全管理概念
+#管理_1_資訊安全管理概念
 資安威脅
-
+---
 資通安全目標CIA
-
+---
 資通安全風險
-
+---
 NIST網路安全框架(CSF)
-
+---
 NIST風險評估架構
-
+---
 MITRE ATT&CK
-
+---
 MITRE DEfend(2021)
-
+---
 MITRE ENgage(2021)
-
+---
 ZERO trust network
-
+---
 資安威脅
 IOT security
 控制智慧燈泡的橋接器裝置CVE-2020-6007
