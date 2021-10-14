@@ -175,31 +175,32 @@ HTTP Load Balancing
 經常用來識別檔案與資料是否有被[竄改]，以[保證檔案與資料確實是由原創者所提供]。  
 [103]建立資訊系統資料備份機制，與下列何者關聯性最高?  
 (A) 可歸責性    (B) 可用性   (C) 完整性   (D) 機密性  
-資訊安全管理系統(ISMS)  
-單元學習重點:  
+## 資訊安全管理系統(ISMS)  
+>單元學習重點:  
 資訊安全管理系統（Information Security Management System, ISMS）  
 導入ISMS的目的  
 導入ISMS的過程與程序  
 導入ISMS的關鍵注意事項  
-資訊安全管理系統（Information Security Management System, ISMS）  
-導入ISMS的目的  
-導入ISMS的過程與程序  
-導入ISMS的關鍵注意事項  
-1_2_資訊安全管理系統(ISMS)  
-資訊安全管理系統（Information Security Management System， ISMS）  
+
+## 資訊安全管理系統（Information Security Management System, ISMS）  
+### 導入ISMS的目的  
+### 導入ISMS的過程與程序  
+### 導入ISMS的關鍵注意事項  
+#### 1_2_資訊安全管理系統(ISMS)  
+#### 資訊安全管理系統（Information Security Management System， ISMS）  
 [5]下列何項非為成功建立資訊安全管理系統之必要項目？  
 (A) 導入ISO國際標準  
 (B) 最高管理階層的參與及支持  
 (C) 組織提供建立資訊安全管理系統（Information Security Management System， ISMS）所需之資源  
 (D) 確立資訊安全管理的政策及目標  
-導入目的  
+#### 導入目的  
 [57]下列何者不是導入資訊安全管理系統（Information Security Management System， ISMS）的主要目的？  
 (A) 保護組織資訊資產的安全  
 (B) 確保資訊系統能夠穩定的運作  
 (C) 降低企業的營運和人員成本  
 (D) 避免資料外洩事故的發生  
  
-資訊安全管理系統(Information Security Management System，簡稱：ISMS)，是一套有系統分析和管理資訊系統的方法  
+#### 資訊安全管理系統(Information Security Management System，簡稱：ISMS)，是一套有系統分析和管理資訊系統的方法  
 
 各組織對ISMS的導入使用規劃(Plan)、執行(Do)、檢查(Check)、行動(Action)四個步驟(簡稱：PDCA)循環進行。  
 導入資訊安全管理系統（Information Security Management System， ISMS）的注意事項  
@@ -225,7 +226,7 @@ HTTP Load Balancing
 (B) 制定的各項管理制度、程序，不宜以電子檔案公佈  
 (C) 所制訂管理辦法及作業程序需要被遵守，因此所有人皆可閱讀所有文件  
 (D) 文件管制宜訂定標準作業程序，以利組織成員遵循  
-資訊安全政策Security Policy  
+#### 資訊安全政策Security Policy  
 [108]資訊安全政策是資訊安全管理系統中的最高指導原則，  
 有不可缺少的重要性，下列敘述何者正確?  
 (A) 滿足相關的要求事項的承諾後，無需持續改善  
@@ -237,15 +238,15 @@ HTTP Load Balancing
 (B) 相關法令有重大變更時，應進行審查  
 (C) 公司主要營業項目有重大改變時，應進行審查  
 (D) 資訊安全政策之審查由資訊主管單獨進行即可  
-資訊安全管理系統的導入:PDCA  
+### 資訊安全管理系統的導入:PDCA  
 PDCA（Plan-Do-Check-Act的簡稱）循環式品質管理  
 針對品質工作按規劃、執行、查核與行動來進行活動，以確保可靠度目標之達成，並進而促使品質持續改善。  
 業界早已普遍運用的一套「目標管理」流程，  
 透過規劃（Plan）、執行（Do）、查核（Check）、行動（Act）四階段，確保每次的目標都能達成。  
-（Plan）：產品可靠度目標預測與訂定、可靠度計畫研擬與確定、可靠度組織與分工。  
-（Do）：可靠度作業激勵、命令與實施。  
-（Check）：產品可靠度評定與評估、可靠度作業管制與稽核  。
-（Act）：各種可靠度工作之作業單位間協調、可靠度改善對策訂定、改善行動執行與跟催。  
+- （Plan）：產品可靠度目標預測與訂定、可靠度計畫研擬與確定、可靠度組織與分工。  
+- （Do）：可靠度作業激勵、命令與實施。  
+- （Check）：產品可靠度評定與評估、可靠度作業管制與稽核  。
+- （Act）：各種可靠度工作之作業單位間協調、可靠度改善對策訂定、改善行動執行與跟催。  
 [58]資訊安全管理系統遵照計畫（Plan）、執行（Do）、檢查（Check）及行動（Act）等四個程序，不斷的改進。  
 關於PDCA四個程序，下列說明何者不正確？  
 (A) 計畫（Plan）：依照組織政策，建立必要的資安目標  
